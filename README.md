@@ -1,6 +1,6 @@
 # Algo Visualization
 
-Visualize and learn various Pathfinding, Sorting and Searching algorithms via awesome visualization website and good quality study material, <a href = "https://algo-visualization.000webhostapp.com/templates/index.php"> Click here </a> to visit.
+Visualize and learn various Pathfinding, Sorting and Searching algorithms <a href = "https://algo-visualization.000webhostapp.com/templates/index.php"> Click here </a> to visit.
 
 <hr>
 
